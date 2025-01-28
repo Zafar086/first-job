@@ -1,0 +1,98 @@
+h1{
+    text-align: center;
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    border: 2px solid red;
+}
+
+span{
+    color: black;
+    background-color: yellow;
+}
+
+em{
+    color: red;
+}
+
+h2{
+    color: green;
+}
+
+h3{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+
+img{
+        text-align: center;
+        width: 1200px;
+    }
+
+    .back{
+        background-color: black;
+        text-align: center;
+        border-radius: 7px 7px 7px 7px;
+    }
+
+    .green{
+        color: green;
+        font-size: medium;
+    }
+
+    input{
+        width: 700px;
+        height: 20px;
+        text-align: start;
+    }
+
+    form{
+        text-align: start;
+        font-size: medium;
+    }
+
+    button{
+        background-color: cornflowerblue;
+        width: 150px;
+        color: white;
+        text-align: left;
+    }
+
+    table{
+        text-align: center;
+    }
+    
+    td{
+        width: 700px;
+    }
+    
+    th{
+        width: 250px;
+    }
+
+    
+.black{
+    background-color: black;
+    color: white;
+}
+
+.red{
+    color: white;
+    background-color: red;
+}
+
+.blue{
+    color: white;
+    background-color: blue;
+}
+
+.greenb{
+color: white;
+background-color: green;
+}
